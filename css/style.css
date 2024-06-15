@@ -253,6 +253,16 @@ header .intro-text {
 	padding-bottom: 30px;
 }
 /* About Section */
+
+.info{
+	display: flex;
+	gap: 40px;
+}
+@media(max-width:900px){
+	.info{
+		flex-direction: column;
+	}
+}
 #about {
 	padding: 120px 0;
 }
