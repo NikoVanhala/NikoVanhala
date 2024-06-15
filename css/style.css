@@ -14,7 +14,8 @@ body, html {
 	margin: auto;
 	max-width: 1200px;
 	width: 90%;
-	padding: 40px;
+	padding-top: 40px;
+	padding-bottom: 40px;
 }
 h1 {
 	display: flex;
