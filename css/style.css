@@ -258,6 +258,7 @@ header .intro-text {
 .info{
 	display: flex;
 	gap: 40px;
+	flex-direction: row-reverse;
 }
 @media(max-width:900px){
 	.info{
