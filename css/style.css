@@ -289,11 +289,12 @@ header .intro-text {
 .column{
 	display: flex;
 	flex-direction: column;
-	gap: 10px;
+	gap: 15px;
 }
 
 .column img{
 	max-width: 100%;
+	display: block;
 }
 .content {
 	width: 100%;
